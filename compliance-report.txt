@@ -1,0 +1,8 @@
+COMPLIANCE CHECK REPORT
+======================
+
+STATUS: NON-COMPLIANT
+
+[FAIL] Hardcoded API key detected
+[FAIL] Debug mode must be disabled
+[FAIL] Application logging to a separate file is not enabled
